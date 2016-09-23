@@ -1,4 +1,7 @@
 # hello-world
+Hi!
+
+God help those who help themselves.
 just another repository
 import java.awt.*;  
 import java.awt.event.*;  
